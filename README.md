@@ -1,0 +1,2 @@
+# Javascript Promises- Asynchronous Code
+Exercises to understand using async await to handle asynchronous code. Using the Numbers API (http://numbersapi.com/)  and the Deck of Cards API (https://deckofcardsapi.com/). 
